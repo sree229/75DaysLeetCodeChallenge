@@ -8,9 +8,7 @@ class Solution:
         #         nums[i+1] = nums[j]
         #         i+=1
         # return i+1 
-        i,j = 0,0
-        while i <len(nums):
-            j = i+1
+            i,j = 0,1
             while j<len(nums):
               if nums[i] == nums[j]:
                 j+=1

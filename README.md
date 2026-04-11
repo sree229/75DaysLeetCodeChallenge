@@ -112,6 +112,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

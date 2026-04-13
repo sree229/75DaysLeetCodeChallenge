@@ -9,20 +9,14 @@ class Solution:
         count = 0
         while temp!=None :
             count+=1
-            temp = temp.next
-        if count<2:
-            return 
+            temp = temp.next 
         val = count-n
         if val==0:
-            curr = head
             head = head.next
-            curr.next = None
             return head
         i = 0
         temp = head
-        prev = temp
         while temp!=None and i<val:
-            print("hi")
             prev = temp
             temp = temp.next
             i+=1

@@ -4,7 +4,7 @@ class Solution:
         count = 0
         for i in nums :
             n[i] = n.get(i,0)+1
-        for key in n:
+        for key in n.keys():
             if n[key] == 2:
                 count ^= key
         return count

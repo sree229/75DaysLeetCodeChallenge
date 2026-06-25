@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

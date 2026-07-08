@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1528-shuffle-string](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |

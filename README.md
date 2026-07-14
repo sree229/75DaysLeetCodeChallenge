@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1528-shuffle-string](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

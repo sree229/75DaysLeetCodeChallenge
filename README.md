@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -245,4 +247,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -1,23 +1,73 @@
 class Solution:
+    def fun(self,ch,stack) :
+        a = stack.pop()
+        b = stack.pop()
+        match ch :
+            case "+" :
+             return (a+b)
+            case "-" :
+             return (b-a)
+            case "*" :
+                 return (a*b)
+            case "/" : 
+                return int(b/a)
     def evalRPN(self, tokens: List[str]) -> int:
-        stack = [0]*len(tokens)
-        top = -1
-        for i in tokens :
-            if i == "+" or i == "-" or i == "*" or i == "/" :
-                a = stack[top]
-                top-=1
-                b = stack[top]
-                if i == "+"  :
-                    stack[top] = a+b
-                elif i == "-" :
-                    stack[top]= b-a
-                elif  i == "*" :
-                    stack[top]= a*b 
-                else :
-                    stack[top]= int(b/a)
+        stack = []
+        for i in tokens:
+            if i in ["+","*","/","-"] :
+               res =  self.fun(i,stack)
+               stack.append(res)
             else :
-                top+=1
-                stack[top] = int(i)
-        return stack[top]
+                stack.append(int(i))
+        return stack[-1]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         

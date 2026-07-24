@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1528-shuffle-string](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Math
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |

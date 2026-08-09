@@ -10,17 +10,38 @@ class Solution(object):
         :rtype: bool
         """
         temp = head 
-        arr= []
-        while temp!=None:
-            arr.append(temp.val)
+        count = 0
+        while temp!= None :
+            count+=1
             temp = temp.next
-        i = 0
-        j = len(arr)-1
-        while i<j :
-            if arr[i] != arr[j]:
-                return False 
-            i+=1
-            j-=1
+        flag = True
+        if count %2 !=0:
+            flag = False
+        fast = head 
+        slow = head
+        while fast is not None and fast.next is not None :
+            slow = slow.next
+            fast = fast.next.next
+        if flag :
+            curr = slow
+        else :
+            curr = slow.next
+        prev = None 
+        while curr!=None :
+            after = curr.next 
+            curr.next = prev
+            prev = curr
+            curr = after 
+        temp1 = head
+        temp2 = prev
+        while temp2!=None :
+            if temp1.val != temp2.val:
+                return False
+            temp1 = temp1.next
+            temp2 = temp2.next
         return True
+        
+        
+
         
         

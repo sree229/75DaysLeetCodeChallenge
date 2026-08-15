@@ -9,15 +9,24 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: int
         """
-        curr = head
-        arr = []
-        while curr!=None :
-            arr.append(curr.val)
-            curr = curr.next
-        print(arr)
+        slow = head
+        fast = head
+        while fast is not None :
+            slow = slow.next
+            fast = fast.next.next
+        prev = None
+        curr = slow
+        while  curr!=None:
+            after = curr.next
+            curr.next = prev
+            prev = curr
+            curr = after
+        ptr1 = head
+        ptr2 = prev
         maxsum = 0
-        n = len(arr)
-        for i in range(len(arr)):
-            if maxsum < arr[i]+arr[n-1-i] :
-                maxsum = arr[i]+arr[n-1-i] 
+        while ptr2!=None :
+            if  maxsum < ptr1.val+ptr2.val :
+                maxsum = ptr1.val+ptr2.val
+            ptr1 = ptr1.next
+            ptr2 = ptr2.next
         return maxsum

@@ -1,41 +1,43 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution:
-    def reorderList(self, head: Optional[ListNode]) -> None:
+class Solution(object):
+    def reorderList(self, head):
         """
-        Do not return anything, modify head in-place instead.
+        :type head: Optional[ListNode]
+        :rtype: None Do not return anything, modify head in-place instead.
         """
-        if not head or not head.next:
-            return
-        dummy = ListNode()
-        slow = head 
+        if head is None or head.next is None :
+            return head
         fast = head
-        change = slow 
-        while fast!=None and fast.next!=None :
-            change = slow
+        slow = head
+        while fast != None and fast.next!=None :
+            ptr = slow 
             slow = slow.next
-            fast = fast.next.next
-        change.next=None
-        curr = slow
-        prev = None
-        while curr!=None :
+            fast = fast.next.next 
+        ptr.next = None
+        curr = slow 
+        prev = None 
+        while  curr!=None:
             after = curr.next
             curr.next = prev
             prev = curr
-            curr = after
-        head1 = head
-        head2 = prev
-        head3 = dummy
-        while head1!=None and head2!=None :
-            head3.next=head1
-            head1 = head1.next
-            head3 = head3.next
-            head3.next = head2
-            head2 = head2.next
-            head3 = head3.next
-        if head2!=None:
-            head3.next = head2
-        head.next = dummy.next.next
+            curr = after 
+        curr1 = head
+        curr2 = prev
+        dummy = ListNode(0)
+        curr = dummy 
+        while curr1!=None and curr2!=None :
+            curr.next = curr1
+            curr1 = curr1.next
+            curr = curr.next
+            curr.next = curr2
+            curr2 = curr2.next
+            curr = curr.next
+        if curr1!=None :
+            curr.next = curr1
+        if curr2!=None :
+            curr.next = curr2
+        return dummy.next

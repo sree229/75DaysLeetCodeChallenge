@@ -14,7 +14,6 @@ class Solution(object):
         while curr!=None :
             nums.append(curr.val)
             curr = curr.next
-        print(nums)
         arr = [0]*len(nums)
         stack = []
         for i in range(len(nums)) :

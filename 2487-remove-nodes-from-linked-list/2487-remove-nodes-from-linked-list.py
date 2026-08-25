@@ -14,7 +14,6 @@ class Solution(object):
         while curr is not None :
             arr.append(curr.val)
             curr = curr.next
-        print(arr)
         stack = []
         for i in arr:
             while  stack  and i > stack[-1] :

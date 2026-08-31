@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -133,17 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -407,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->

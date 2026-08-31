@@ -10,7 +10,6 @@ class Solution(object):
             val = sqrt((points[i][0]*points[i][0])+(points[i][1]*points[i][1]))
             li.append([val,i])
         li = sorted(li,key = lambda x : x[0])
-        print(li)
         res = []
         i = 0 
         while i < k:

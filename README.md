@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1528-shuffle-string](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -423,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sree229/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

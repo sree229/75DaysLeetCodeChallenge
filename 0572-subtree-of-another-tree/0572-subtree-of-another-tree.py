@@ -20,19 +20,11 @@ class Solution(object):
             else :
                 return False
             return finding(root.left,subRoot.left) and finding(root.right,subRoot.right)
-        res = []
         def firstNode(root,subRoot) :
             if not root:
-                return 
-            if root.val == subRoot.val :
-                 res.append(finding(root,subRoot))
-            firstNode(root.left,subRoot)
-            firstNode(root.right,subRoot)
-        firstNode(root,subRoot)
-        for i in res :
-            if i == True :
-                return True
-        return False
-                    
+                return False
+            return finding(root,subRoot) or firstNode(root.left,subRoot) or firstNode(root.right,subRoot)
+        return firstNode(root,subRoot)
+    
         
           

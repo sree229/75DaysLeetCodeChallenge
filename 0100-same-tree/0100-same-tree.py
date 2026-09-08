@@ -20,9 +20,8 @@ class Solution(object):
         else :
             if p.val != q.val :
                 return False
-        val1 = self.isSameTree(p.left,q.left)
-        val2 = self.isSameTree(p.right,q.right)
-        return val1 and val2
+        return self.isSameTree(p.left,q.left) and self.isSameTree(p.right,q.right)
+        # return val1 and val2
 
             
             
